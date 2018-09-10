@@ -19,6 +19,7 @@ so possible cases can be:
 [2,3,3,3] -a two way split
 
 This is a game of strategy hence there are many ways to increase the points in your table.
-Note:- you cannot make an invalid split or make an even number increase.
+Note:- you cannot make an invalid split you will be asked to make the split again nor can you increase a even number.
+       If you do not wish to take a 2 when you get a 2 ,hit the enter button. else it will ask you to type yes.
 
 These are the basic rules.
