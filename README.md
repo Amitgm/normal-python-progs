@@ -1,6 +1,9 @@
 # normal-python-progs
+Super-nim and other code challenges
 
-Python programs(Super-nim game) from code challenges
+Super-nim Description:
+
+Python programs(Super-nim game) 
 The rule is to to select a number (even or odd) and split the number if it is even or the number is multiplied by 3 and added to one if its is odd
 
 for example [4,3,6]
